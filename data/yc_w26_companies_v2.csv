@@ -1,0 +1,86 @@
+Company,Website,Category,Subcategory,Description,AI_Depth,Notable_Info
+Martini (C47),martini.film,B2B,Generative AI,Collaborative AI-native filmmaking for professionals,Wrapper,
+Condor Energy,,Industrials,Energy,Energy OS enabling reliable cheap and sustainable electricity supply,Wrapper,
+Resonate,,B2B,Messaging,The first AI-native messaging platform,Wrapper,
+Zymbly,,B2B,Aviation,Automates admin for aircraft technicians,Wrapper,
+Pollinate,,B2B,Supply Chain,AI Agents for the supply chain,Wrapper,
+MochaCare,,Healthcare,Home Care,AI-powered scheduling and hiring service for home care agencies,Wrapper,
+Cardinal,,B2B,Sales,AI Platform for Precision Outbound,Applied AI,40+ YC companies as paying customers; founders are 2x YC alumni (S23 and W26)
+Wideframe,,B2B,Video,AI agent for video work outside the NLE,Applied AI,
+Shofo,,B2B,Data,Common Crawl for Video,Applied AI,
+Wayco,,B2B,Legal,AI operator for legal case referrals,Applied AI,
+Polymorph,,B2B,Analytics,AI that catches intent & churn live then acts faster than a human can,Applied AI,
+Vela,,B2B,Productivity,The AI Scheduling Assistant that truly knows you,Applied AI,Most unique - 0 near-competitors
+VOYGR,,B2B,Infrastructure,Real-world place intelligence for AI apps and agents,AI Infrastructure,
+Canary,,B2B,Developer Tools,The first AI QA engineer that understands your codebase,AI Infrastructure,
+Maven,,Fintech,Payments,Payments for Voice AI Agents,AI Infrastructure,
+Corelayer,,B2B,Developer Tools,AI on-call engineer that debugs using data,AI Infrastructure,
+Emdash,,B2B,Developer Tools,Open-source Agentic Development Environment,AI Infrastructure,18 near-competitors - highly crowded
+Chamber,,B2B,Infrastructure,Autopiloting your AI infrastructure,AI Infrastructure,
+Aurorin CAD,,B2B,Hardware,We help hardware companies ship faster,Deep Tech,Most unique - 0 near-competitors
+DAIVIN!,,Industrials,Hardware,Tankless Dive Gear - Breath Autonomy at Sea Land & Space,Deep Tech,
+GrazeMate,,Industrials,Agriculture,Robot Cowboys that Herd Cattle with AI Drones,Deep Tech,
+Origami Robotics,,Industrials,Robotics,Manipulate Anything Robot,Deep Tech,
+Librar Labs,,B2B,Infrastructure,The next generation of the intelligence layer for the physical world,Deep Tech,
+Ritivel,,B2B,Regulatory,AI-native platform for regulatory document submission,Deep Tech,
+Fort,fort.cx,Consumer,Wearables,Strength Tracking Wearable,Non-AI,Ex-Tesla Cybertruck engineers; most unique - 0 near-competitors
+Pocket,,Consumer,Hardware,Hardware consumer device,$27M ARR,Non-AI,$27M ARR at seed stage; shipped 30000+ units in 5 months; 50% MoM growth
+Beacon Health,,Healthcare,Digital Health,AI-powered healthcare platform,Applied AI,$5.4M raised from Accel; largest healthcare raise in batch
+Synthetic Sciences,,B2B,Science,Claude Code for Science,Deep Tech,$1.9M total funding; 18-year-old founders; youngest founders with significant pre-YC funding
+Captain,runcaptain.com,B2B,Infrastructure,API-first unified data layer for enterprise RAG pipelines,AI Infrastructure,Only company coached by Garry Tan personally
+Cardboard,usecardboard.com,B2B,Video,Agentic video editor,Applied AI,Highest upvoted Hacker News launch in YC W26 (131 upvotes)
+Pax Historia,paxhistoria.co,Consumer,Gaming,AI-powered alternate-history sandbox game,Applied AI,Nearly 20 million rounds played; highest usage LLM game per Garry Tan
+Lucent,lucenthq.com,B2B,Developer Tools,AI that automatically watches session replays to detect bugs and UX issues,Applied AI,
+BeeSafe AI,,B2B,Security,Stopping Scams Before They Reach Your Customers,Applied AI,Most unique - 0 near-competitors
+Fed10,,B2B,Government,AI agents that replace your policy consultants,Applied AI,Most unique - 0 near-competitors
+Scout Out,,B2B,Construction,AI generated proposals for residential construction projects,Applied AI,Most unique - 0 near-competitors
+o11,,B2B,Enterprise,The Most Integrated M365 AI Suite,Applied AI,Most unique - 0 near-competitors
+Ditto Biosciences,,Healthcare,Biotech,Evolutionary therapies for autoimmune disease,Deep Tech,Most unique - 0 near-competitors
+Bubble Lab,,B2B,Automation,Prompt once automate forever,Applied AI,Most unique - 0 near-competitors
+Byteport,,B2B,Infrastructure,Global upload acceleration for 1GB-100TB files,Applied AI,Most unique - 0 near-competitors
+Mendral,,B2B,Developer Tools,AI DevOps Engineer,AI Infrastructure,Most unique - 0 near-competitors
+Oximy,,B2B,Enterprise,The system of record for enterprise AI usage,Applied AI,Most unique - 0 near-competitors
+DroneTector,,Industrials,Defense,Technology to detect and track hostile drones,Deep Tech,
+Voltair,,Industrials,Drones,Self Charging Drones,Deep Tech,
+Grade,,B2B,HR,Payroll for performance,Non-AI,
+Forum,,Fintech,Exchange,The first regulated exchange to trade on attention,Non-AI,
+SideKit,,B2B,Developer Tools,One package to take your mobile app to production,Non-AI,
+Sparkles,,B2B,Developer Tools,Make everyone on your team an engineer,Non-AI,
+EigenPal,,B2B,Productivity,AI-powered platform to automate document workflows,Applied AI,
+Arcline,,B2B,Legal,AI-powered legal services for startups,Applied AI,
+Corvera,corvera.ai,B2B,Operations,AI workforce for CPG brands day-to-day ops,Applied AI,$2M raised; 15 design partners; 40% profit increase for brands
+Carma,,B2B,Operations,AI-native platform for fleet operations,Applied AI,Powers Fortune 500 clients; fastest-growing fleet management software
+Veles,,B2B,Sales,Quote generation as Web Portals Slides Docs or PDFs,Applied AI,Free for YC W26 companies
+Perfecty,,B2B,HR,AI-native recruiting agency for startups,Applied AI,
+Unifold,,Fintech,Crypto,Multi-chain deposit and payment infrastructure,Non-AI,
+SpotPay,,Fintech,Crypto,Cross-border Personal Finance on Stablecoins,Non-AI,
+AxionOrbital Space,,Industrials,Space,Foundation models for 24/7 Earth Observation,Deep Tech,
+Beyond Reach Labs,,Industrials,Space,Space solar arrays that grow to the size of a football field in orbit,Deep Tech,
+RoboDock,,Industrials,Robotics,Robots that run autonomous depots for autonomous fleets,Deep Tech,
+Remy AI,,Industrials,Robotics,Robotics company,Deep Tech,
+Servo7,,Industrials,Robotics,Robotics company,Deep Tech,
+Hlabs,,Industrials,Robotics,Robotics company,Deep Tech,
+Constellation Space,,Industrials,Space,Space technology company,Deep Tech,
+Patientdesk.ai,,Healthcare,Operations,AI for healthcare operations,Applied AI,
+Prana,,Healthcare,Digital Health,Healthcare technology,Applied AI,
+Opalite Health,,Healthcare,Digital Health,Healthcare technology,Applied AI,
+Zatanna,,Healthcare,Insurance,Healthcare insurance technology,Applied AI,
+Samora AI,,B2B,Voice AI,Voice AI technology,Applied AI,
+Moss,,B2B,Voice AI,Voice AI technology,Applied AI,
+Codyco,,B2B,Voice AI,Voice AI technology,Applied AI,
+Skillsync,,B2B,HR,Skills and hiring platform,Applied AI,
+ARC Prize Foundation,,Nonprofit,AI Research,AI research foundation,Deep Tech,
+Exonic,,Healthcare,Biotech,Biotech company,Deep Tech,
+Congruent,,B2B,Enterprise,Enterprise software,Applied AI,
+End Close,,B2B,Finance,Finance automation,Applied AI,
+Stilta,,B2B,Enterprise,Enterprise software,Applied AI,
+Human Archive,,B2B,Data,Data platform,Deep Tech,
+Caretta,,B2B,Sales,Sales technology,Applied AI,
+Unisson,,B2B,Collaboration,Collaboration platform,Applied AI,
+Coevolved,,B2B,AI,AI platform,Applied AI,
+Moda,,B2B,AI,AI platform,Applied AI,
+Sequence Markets,,Fintech,Trading,Trading platform,Non-AI,
+Voxel Energy,,Industrials,Energy,Energy technology,Applied AI,
+Booko,,Consumer,Education,Education platform,Applied AI,
+Crow,,Consumer,App,Consumer app,Non-AI,
+sitefire,,B2B,Marketing,Marketing technology,Applied AI,
